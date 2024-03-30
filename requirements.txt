@@ -1,0 +1,6 @@
+Pillow==10.1.0
+requests==2.31.0
+pytube==15.0.0
+moviepy==1.0.3
+customtkinter==5.2.2
+CTkMessagebox==2.5
