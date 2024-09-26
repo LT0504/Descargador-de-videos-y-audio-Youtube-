@@ -19,3 +19,7 @@ Un programa básico desarrollado en Python que te permite descargar videos en fo
    ```sh
    pip install -r requirements.txt
    ```
+2. Ejecutar programa
+   ```sh
+   python main.py
+   ```
